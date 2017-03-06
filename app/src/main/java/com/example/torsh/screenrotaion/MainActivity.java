@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    
     // for storing values of text field and buttons during rotation
     // use unique id's for widgets to restore their values
     @Override
